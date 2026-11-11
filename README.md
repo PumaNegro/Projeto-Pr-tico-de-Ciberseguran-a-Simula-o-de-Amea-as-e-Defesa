@@ -1,7 +1,7 @@
 # Projeto-Pr-tico-de-Ciberseguran-a-Simula-o-de-Amea-as-e-Defesa
 Laboratório prático de cibersegurança: simulação educacional de keylogger e ransomware em Python
 
-# Projeto Prático de Cibersegurança: Simulação de Ameaças e Defesa 🛡️
+# Projeto Prático Desenvolvido pela DIO e professora:Isadora Garcia Ferrão 🛡️
 
 Este repositório documenta um laboratório prático desenvolvido no contexto de estudos de cibersegurança. O objetivo principal é compreender, de maneira ética, controlada e em ambiente isolado, o funcionamento técnico de malwares comuns (Keylogger e Ransomware) para aprimorar o raciocínio analítico em estratégias de detecção, mitigação e resposta a incidentes.
 
