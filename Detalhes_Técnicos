@@ -1,4 +1,5 @@
 🔍 Detalhes Técnicos dos Módulos
+
 1. Módulo Ransomware
 
     ransomware.py: Demonstra o uso de criptografia simétrica para simular o sequestro de dados em arquivos de teste.
