@@ -1,0 +1,32 @@
+🔍 Detalhes Técnicos dos Módulos
+1. Módulo Ransomware
+
+    ransomware.py: Demonstra o uso de criptografia simétrica para simular o sequestro de dados em arquivos de teste.
+
+    descriptografar.py: Simula o processo de reversão do ataque utilizando a chave de segurança (chave.key).
+
+    LEIA ISSO.TXT: O arquivo de aviso gerado pelo malware simulando uma nota de extorsão.
+
+2. Módulo Keylogger
+
+    keylogger0.pyw: Script básico utilizando pynput para escutar eventos de teclado e armazenar localmente.
+
+    keylogger_email.pyw: Evolução do script com foco em exfiltração remota, utilizando threads e protocolo SMTP para o envio periódico dos logs.
+
+🛡️ Reflexão sobre Defesa e Mitigação
+
+Para mitigar e se defender contra este tipo de ameaça no mundo real, as organizações adotam uma abordagem de Defesa em Profundidade:
+
+    Contra Keyloggers:
+
+        Monitoramento de processos e comportamentos anômalos em endpoints por soluções de EDR (Endpoint Detection and Response).
+
+        Políticas restritivas de execução de scripts nas estações de trabalho.
+
+    Contra Ransomware:
+
+        Políticas de Backup 3-2-1: Manter cópias de segurança isoladas, imutáveis e offline.
+
+        Princípio do Menor Privilégio: Limitar o acesso de escrita de usuários comuns a pastas compartilhadas na rede.
+
+        Conscientização Contínua: Treinamento de colaboradores contra engenharia social e vetores de infecção inicial.
